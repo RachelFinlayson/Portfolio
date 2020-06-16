@@ -35,7 +35,7 @@ Since completeing my education at the University of Cape Town, I have been worki
 
 ## Coding Projects
 
-**I have completed several coding capstone projects through my data science course, these are three of the projects I have loaded into GitHub*:
+**I have completed several coding capstone projects through my data science course, these are three of the projects I have loaded into GitHub**:
 
 * [Capstone II - Data Analytics and Exploration](https://github.com/RachelFinlayson/Capstone-II-Data-Analytics-and-Exploration)
 The purpose of this project is to display exploratory data analysis (EDA) skills that include cleaning, sanitizing and exploring data, which starts with the initial guided analysis of the movie data set and followed by a complete EDA on the automobile data set. The goal of these analyses is to identify trends using graphs and tables to analyse the raw data provided.

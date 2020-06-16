@@ -11,3 +11,5 @@ I am an analytical and numerical thinker who has developed problem solving skill
 
 **Email Address**: finlaysonrach@gmail.com
 
+## Contact Information
+

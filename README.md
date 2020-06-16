@@ -5,7 +5,7 @@ I am an analytical and numerical thinker who has developed problem solving skill
 
 ## Contact Information
 
-**Name**: Rachel Finlayson
+**Name**: Rachel Finlayson, CFA®
 
 **Email Address**: finlaysonrach@gmail.com
 
@@ -31,7 +31,17 @@ I am an analytical and numerical thinker who has developed problem solving skill
 
 ## Work Experience
 
-Since completeing my education at the University of Cape Town, I have been working at Northstar Asset Management as an research Analyst.
+Since completeing my education at the University of Cape Town, I have been working at Northstar Asset Management as a research analyst.
 
 ## Coding Projects
 
+**I have completed several coding capstone projects through my data science course, these are three of the projects I have loaded into GitHub*:
+
+* [Capstone II - Data Analytics and Exploration](https://github.com/RachelFinlayson/Capstone-II-Data-Analytics-and-Exploration)
+The purpose of this project is to display exploratory data analysis (EDA) skills that include cleaning, sanitizing and exploring data, which starts with the initial guided analysis of the movie data set and followed by a complete EDA on the automobile data set. The goal of these analyses is to identify trends using graphs and tables to analyse the raw data provided.
+
+* [Capstone Project III - Data Analytics andExploration](https://github.com/RachelFinlayson/Capstone-Project-III-Data-Analytics-and-Exploration)
+The purpose of this project is to display exploratory data analysis (EDA) skills that include cleaning, sanitizing and exploring data, which is done by analysing the consumption of food and beverage in total consumption (on a global basis looking at countries and regions). The goal of this analysis is to identify trends using graphs and tables to analyse the raw data provided.
+
+* [Capstone Project III - Machine Learning](https://github.com/RachelFinlayson/Capstone-Project-III-Machine-Learning-)
+The purpose of this project is to use sentiment analysis of the imdb movie reviews to predict if a review is positive or negative.

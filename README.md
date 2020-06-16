@@ -7,7 +7,7 @@ I am an analytical and numerical thinker who has developed problem solving skill
 
 **Name**: Rachel Finlayson
 
-**LinkedIn Profile**: www.linkedin.com/in/rachel-finlayson-cfa-14399891
+**[LinkedIn Profile]** (www.linkedin.com/in/rachel-finlayson-cfa-14399891)
 
 **Email Address**: finlaysonrach@gmail.com
 
